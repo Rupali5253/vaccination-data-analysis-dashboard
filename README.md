@@ -70,6 +70,7 @@ VACCINATION-DATA-ANALYSIS/
 ├── README.md
 ├── requirements.txt
 ```
+> **Note:** Due to GitHub upload limitations, the datasets are provided as a compressed `data.zip` file.
 
 ---
 
